@@ -33,4 +33,12 @@ Name | Rollno | College
 vikas|19|vrsec
 --------------------------------
 
+``` python
+def sum(a,b):
+  return a+b
+  ```
+  ------------------------------
+  :boom::collision::boom::collision::boom::collision:   
+  :egg::curry::egg::curry:
+
 
